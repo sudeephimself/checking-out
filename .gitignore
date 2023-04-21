@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+.authentication.js    # To store any tokens, API keys etc.
+node_modules          #Created by NPM on working on WEB projects
+notes/
+**/*-todo.md
